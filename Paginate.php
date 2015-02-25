@@ -2,7 +2,7 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class CI_Paginate {
+class Paginate {
 
     protected $cur_page_segment = 'page';
     protected $per_page_segment = 'per_page';
