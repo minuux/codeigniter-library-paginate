@@ -1,0 +1,14 @@
+{
+    "name": "minuux/codeigniter-paginate",
+    "type": "codeigniter-spark",
+    "description": "codeigniter-paginate",
+    "authors": [
+        {
+            "name": "minuux",
+            "email": "minuux@gmail.com"
+        }
+    ],
+    "require": {
+        "compwright/codeigniter-installers": "*"
+    }
+}
