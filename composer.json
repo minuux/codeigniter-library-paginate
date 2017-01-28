@@ -1,6 +1,6 @@
 {
     "name": "minuux/codeigniter-paginate",
-    "type": "codeigniter-spark",
+    "type": "codeigniter-library",
     "description": "codeigniter-paginate",
     "authors": [
         {
