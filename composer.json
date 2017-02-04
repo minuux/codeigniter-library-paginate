@@ -9,6 +9,6 @@
         }
     ],
     "require": {
-        "compwright/codeigniter-installers": "*"
+        "minuux/codeigniter-installers": "^2.0.0"
     }
 }
