@@ -9,6 +9,6 @@
         }
     ],
     "require": {
-        "minuux/codeigniter-installers": "dev-master"
+        "minuux/codeigniter-installers": "^2.0.0"
     }
 }
