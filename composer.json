@@ -1,5 +1,6 @@
 {
     "name": "minuux/codeigniter-paginate",
+    "prettyname":"paginate",
     "type": "codeigniter-library",
     "description": "codeigniter-paginate",
     "authors": [
@@ -9,6 +10,6 @@
         }
     ],
     "require": {
-        "minuux/codeigniter-installers": "^2.0.0"
+        "minuux/codeigniter-install-packages": "dev-master"
     }
 }
