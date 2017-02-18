@@ -1,6 +1,7 @@
 {
     "name": "minuux/codeigniter-paginate",
     "prettyname":"paginate",
+    "pretty":"paginate",
     "type": "codeigniter-library",
     "description": "codeigniter-paginate",
     "authors": [
