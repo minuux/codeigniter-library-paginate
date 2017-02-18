@@ -9,8 +9,8 @@
             "email": "minuux@gmail.com"
         }
     ],
-    "autoload": {
-        "files": ["Paginate.php"]
+     "autoload": {
+        "psr-4": {"Minuux\\CodeigniterPackages\\": ""}
     },
     "require": {
         "minuux/codeigniter-install-packages": "dev-master"
