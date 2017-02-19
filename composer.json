@@ -1,7 +1,5 @@
 {
     "name": "minuux/codeigniter-paginate",
-    "prettyname":"paginate",
-    "pretty":"paginate",
     "type": "codeigniter-library",
     "description": "codeigniter-paginate",
     "authors": [
@@ -11,7 +9,7 @@
         }
     ],
      "autoload": {
-        "psr-4": {"Minuux\\CodeigniterPackages\\": ""}
+        "files": ["Paginate.php"]
     },
     "require": {
         "minuux/codeigniter-install-packages": "dev-master"

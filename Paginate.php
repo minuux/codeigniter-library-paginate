@@ -1,5 +1,5 @@
 <?php
-namespace Minuux\CodeigniterPackages;
+
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Paginate {
