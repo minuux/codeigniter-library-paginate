@@ -1,5 +1,5 @@
 {
-    "name": "minuux/codeigniter-paginate",
+    "name": "minuux/codeigniter-library-paginate",
     "type": "codeigniter-library",
     "description": "codeigniter-paginate",
     "authors": [
@@ -8,10 +8,11 @@
             "email": "minuux@gmail.com"
         }
     ],
-     "autoload": {
-        "files": ["Paginate.php"]
-    },
     "require": {
         "minuux/codeigniter-install-packages": "dev-master"
+    },
+    "extra":{
+        "class_name":"paginate",
+        "main":"Paginate.php"
     }
 }
