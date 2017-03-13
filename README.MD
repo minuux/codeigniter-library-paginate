@@ -1,5 +1,9 @@
 #codeigniter 分页类
 
+##require
+- helper:url
+- database
+
 ##使用
 
 ```
